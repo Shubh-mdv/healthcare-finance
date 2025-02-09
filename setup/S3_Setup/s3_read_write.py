@@ -14,9 +14,7 @@ print("Bucket Name: ", bucket_name)
 
 subfolder_paths = [
     "landing/",
-    "stage/hosp-a/archived/",
-    "stage/hosp-b/archived/",
-    "stage/ICD-codes/",
+    "stage/archived/",
     "config/",
     "Datasets/EMR/hos-a/archived/",
     "Datasets/EMR/hos-b/archived/",
